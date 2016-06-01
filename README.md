@@ -1,6 +1,8 @@
 # `fastlane` ASCII art plugin
 
+<!--
 [![fastlane Plugin Badge](https://raw.githubusercontent.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-ascii-art)
+-->
 
 ## Getting Started
 

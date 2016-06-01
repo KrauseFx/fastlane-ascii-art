@@ -6,3 +6,7 @@ Gemfile.lock
 /_yardoc/
 /doc/
 /rdoc/
+
+## Just `fastlane` things
+fastlane/README.md
+fastlane/report.xml

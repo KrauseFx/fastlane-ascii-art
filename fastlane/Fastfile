@@ -1,0 +1,5 @@
+lane :test do
+  ascii_art(
+    image_path: 'https://avatars2.githubusercontent.com/u/11098337?v=3&s=400', 
+    width: 40)
+end

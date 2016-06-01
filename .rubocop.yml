@@ -1,0 +1,18 @@
+Metrics/LineLength:
+  Max: 125
+
+Metrics/MethodLength:
+  Max: 15
+
+Style/Documentation:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    - 'lib/fastlane/plugin/ascii_art.rb'
+    - 'lib/fastlane/plugin/ascii_art/actions/ascii_art_action.rb'
+    - 'lib/fastlane/plugin/ascii_art/helper/ascii_art_helper.rb'
+    - 'lib/fastlane/plugin/ascii_art/version.rb'
+
+Style/PredicateName:
+  Exclude:
+    - 'lib/fastlane/plugin/ascii_art/actions/ascii_art_action.rb'

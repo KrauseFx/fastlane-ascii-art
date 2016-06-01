@@ -74,6 +74,8 @@ And you get beautiful output like this:
 +------------------------------------------------------------------------------+
 ```
 
+The `width` parameter is optional, by default your terminal's full width will be used. The `image_path` option accepts either a local path or a URL.
+
 ## Issues and Feedback
 
 For any other issues and feedback about this plugin, please submit it to this repository.
